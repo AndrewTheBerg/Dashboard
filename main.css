@@ -2,8 +2,11 @@
   margin: 0;
   padding: 0;
   border: 0;
-  background-color: black;
   color: white;
+}
+
+body {
+  background-color: black;
 }
 
 ul {
