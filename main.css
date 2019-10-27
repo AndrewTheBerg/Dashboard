@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   border: 0;
-  color: white;
 }
 
 body {
@@ -53,4 +52,5 @@ h1  {
   padding: 10px 10px 10px 10px;
   margin: 80px 50px 0px 50px;
   border: 1px solid red;
+  color: #FFF;
 }
