@@ -16,14 +16,14 @@ ul {
   padding: 0;
   width: 100%;
   background-color: black;
-  border-bottom: 1px solid red;
+  /* border-bottom: 1px solid red; */
   overflow: hidden;
 }
 
 li {
   float: left;
   text-align: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 li:first-child {
@@ -51,6 +51,6 @@ h1  {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 80px 50px 0px 50px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   color: #FFF;
 }
